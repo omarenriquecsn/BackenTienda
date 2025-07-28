@@ -1,0 +1,10 @@
+- He cambiado el uso de bycript por bycriptJs ya que el anteriror produce errores al correr el codigo
+  en el contenedor de Docker
+
+
+- He colocado dos archivos .env uno para el uso de docker y el otro para el uso de una base de datos local
+tampoco he colocado los archivos .env en .gitignore para que sea mas facil para ustedes la prueba pero estoy
+al tanto de que es una mala practica
+
+
+
